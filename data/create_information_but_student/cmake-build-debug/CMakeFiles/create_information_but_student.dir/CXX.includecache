@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chant/CLionProjects/create_information_but_student/main.cpp
+cstdio
+-
+cstring
+-
+cstdlib
+-
+string
+-
+ctime
+-
+iostream
+-
+

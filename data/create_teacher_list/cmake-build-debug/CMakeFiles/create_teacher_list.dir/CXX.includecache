@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chant/CLionProjects/create_teacher_list/main.cpp
+cstdio
+-
+cstring
+-
+iostream
+-
+cstdlib
+-
+ctime
+-
+string
+-
+map
+-
+
